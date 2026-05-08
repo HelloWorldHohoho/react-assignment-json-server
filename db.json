@@ -1,16 +1,16 @@
 {
   "tasks": [
     {
+      "id": 1,
       "title": "Build Login Page",
       "assignedTo": "rishab@gmail.com",
       "status": "Open",
       "priority": "Low",
       "startDate": "01May2026",
-      "endDate": "29May2026",
-      "id": "1"
+      "endDate": "29May2026"
     },
     {
-      "id": "2",
+      "id": 2,
       "title": "Create Dashboard Layout",
       "assignedTo": "shiv@example.com",
       "status": "In-Progress",
@@ -19,7 +19,7 @@
       "endDate": ""
     },
     {
-      "id": "3",
+      "id": 3,
       "title": "Review API Integration",
       "assignedTo": "dev.team@example.com",
       "status": "Under-review",
@@ -28,13 +28,13 @@
       "endDate": ""
     },
     {
+      "id": 4,
       "title": "Prepare Release Notes",
       "assignedTo": "qa@example.com",
       "status": "Done",
       "priority": "High",
       "startDate": "04May2026",
-      "endDate": "07May2026",
-      "id": "4"
+      "endDate": "07May2026"
     }
   ]
 }
